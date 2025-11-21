@@ -9,10 +9,10 @@ assignees: ''
 
 ---
 name: User Story
-about: Standard user story template
+about: Standard user story template for backlog items
 title: ''
 labels: ''
-assignees: ''
+assignees: 'Andrew'
 ---
 
 ## User Story  
